@@ -11,7 +11,7 @@ Image classification is a fundamental task in computer vision where an input ima
 
 ## Neural Network Model
 
-<img width="1052" height="512" alt="image" src="https://github.com/user-attachments/assets/4159dde9-81ca-44fa-9272-76e1395969c2" />
+<img width="1043" height="736" alt="image" src="https://github.com/user-attachments/assets/88ae645c-e564-4297-8e20-fc63b7737bfd" />
 
 
 ## DESIGN STEPS
